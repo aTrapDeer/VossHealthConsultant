@@ -91,8 +91,7 @@ export default function Home() {
               <h2 className="text-3xl font-bold">Your Trusted Partner in LTD Claims</h2>
               
               <p className="text-lg text-gray-700">
-                With our expert guidance and compassionate approach, we help you understand your
-                rights, avoid common mistakes, and navigate every phase of the LTD claims process.
+                Our team of specialists helps you understand your rights, avoid common mistakes, and navigate every phase of the LTD claims process.
                 Whether you&apos;re filing a claim for the first time, appealing a denial, or facing disputes, we
                 stand ready to be your trusted partners in this journey.
               </p>
